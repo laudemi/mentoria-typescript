@@ -1,5 +1,5 @@
 // Como podemos rodar isso em um arquivo .ts sem causar erros? 
 
-let employee = {code: number, name: string};
-employee.code = 10;
-employee.name = "John";
+let empregado =  {codigo: 10, nome:"John" }; 
+empregado.codigo = 10;
+empregado.nome = "John";
